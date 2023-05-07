@@ -7,7 +7,7 @@
 <p><strong>When you play modern video games, there is usually a button to skip text and cutscenes. You don't buy the game because it has a skip button and you might not even notice it. But when you boot up that older game from the 90's, you're going to wish you had a skip button.</strong></p>
 <br/>
 
-<p>I love features that work. That might mean coming up with good ideas to implement but it also means testing and breaking and trying to understand</p>
+<p>I love features that work. That might mean coming up with good ideas to implement but it also means testing and breaking and trying to understand.</p>
 <br/>
 <br/>
 
