@@ -15,7 +15,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;opportunities.</p>
 <p>🌱 I’m currently working building a personal website.</p>
 <p>👯 I’m looking to collaborate on anything level-appropriate, especially if it's an opportunity with Vue or Typescript.</p>
-⚡ Fun fact: ... $ \log_{2} n = \theta \log_{8} n $ and $ \log_{8} n = \theta \log_{2} n $ Those who know, know.
+⚡ Fun fact: 
+``` 
+log<sub>2</sub>(n) = &theta; log<sub>8</sub>(n) $ and $ log<sub>8</sub>(n) = &theta; log<sub>2</sub>(n) Those who know, know.
+```
 
 <br/>
 
