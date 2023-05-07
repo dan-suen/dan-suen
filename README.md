@@ -12,7 +12,8 @@
 <br/>
 <br/>
 <p>I love features that work. That might mean coming up with good ideas to implement but it also means testing and breaking and trying to understand</p>
-
+<br/>
+<br/>
 
 <p>🔭 I’m currently working on my resume, improving my LinkedIn profile and looking for a position as a software developer<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;opportunities.</p>
