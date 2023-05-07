@@ -1,16 +1,12 @@
 ### Hello! 👋
 <h3>I'm Dan.</h3>
-<br/><br/>
-
 <p>I'm a recent graduate from the Lighthouse Labs Full-stack Web Development bootcamp, and former STEM undergraduate. I love to learn and tinker with new technologies.</p>
-<br/>
 <p>After all, the most satisfying thing with using technology is the little details. Because it shows there's a human who cares on the other side. My favourite anecdote goes like this:</p>
 
 <br/>
-<br/>
 <p><strong>When you play modern video games, there is usually a button to skip text and cutscenes. You don't buy the game because it has a skip button and you might not even notice it. But when you boot up that older game from the 90's, you're going to wish you had a skip button.</strong></p>
 <br/>
-<br/>
+
 <p>I love features that work. That might mean coming up with good ideas to implement but it also means testing and breaking and trying to understand</p>
 <br/>
 <br/>
@@ -25,9 +21,9 @@
 <a href="https://www.linkedin.com/in/daniel-suen-5182b6149/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
 <a href="mailto: danielsuen200791357@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<!--
+
 ⚡ Fun fact: ... $ \log_{2} n = \theta \log_{8} n $ and $ \log_{8} n = \theta \log_{2} n $ Those who know, know.
--->
+
 <br/>
 <h3><!--:bookmark_tabs: -->Languages</h3>
 
