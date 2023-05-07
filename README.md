@@ -1,5 +1,5 @@
 ### Hello! 👋
-<h3>:bust_in_silhouette:Daniel Suen</h3>
+<h3>I'm Dan.</h3>
 Seeking new opportunity in Web Development:
 <br/><br/>
 
