@@ -4,7 +4,7 @@
 
 <p>I'm a recent graduate from the Lighthouse Labs Full-stack Web Development bootcamp, and former STEM undergraduate. I love to learn and tinker with new technologies.</p>
 <br/>
-<p>After all, the most satisfying thing with using technology is the little details. Because it shows there's a human who cares on the other side. My favourite anecdote goes like this:/p>
+<p>After all, the most satisfying thing with using technology is the little details. Because it shows there's a human who cares on the other side. My favourite anecdote goes like this:</p>
 
 <br/>
 <br/>
