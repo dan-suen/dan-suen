@@ -16,9 +16,9 @@
 <p>🌱 I’m currently working building a personal website.</p>
 <p>👯 I’m looking to collaborate on anything level-appropriate, especially if it's an opportunity with Vue or Typescript.</p>
 ⚡ Fun fact: 
-``` HTML
-log<sub>2</sub>(n) = &theta; log<sub>8</sub>(n) $ and $ log<sub>8</sub>(n) = &theta; log<sub>2</sub>(n)
-```
+<br/>
+<em>log<sub>2</sub>(n) = &theta; (log<sub>8</sub>(n))</em> and <em>log<sub>8</sub>(n) = &theta; (log<sub>2</sub>(n))</em>
+<br/>
 Those who know, know.
 <br/>
 
