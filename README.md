@@ -15,14 +15,15 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;opportunities.</p>
 <p>🌱 I’m currently working building a personal website.</p>
 <p>👯 I’m looking to collaborate on anything level-appropriate, especially if it's an opportunity with Vue or Typescript.</p>
+⚡ Fun fact: ... $ \log_{2} n = \theta \log_{8} n $ and $ \log_{8} n = \theta \log_{2} n $ Those who know, know.
+
+<br/>
 
 
 <h3><!--📫 -->How to reach me:</h3><!- -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <a href="https://www.linkedin.com/in/daniel-suen-5182b6149/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
 <a href="mailto: danielsuen200791357@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-⚡ Fun fact: ... $ \log_{2} n = \theta \log_{8} n $ and $ \log_{8} n = \theta \log_{2} n $ Those who know, know.
 
 <br/>
 <h3><!--:bookmark_tabs: -->Languages</h3>
