@@ -11,8 +11,7 @@
 <br/>
 <br/>
 
-<p>🔭 I’m currently working on my resume, improving my LinkedIn profile and looking for a position as a software developer<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;opportunities.</p>
+<p>🔭 I’m currently working on my resume, improving my LinkedIn profile and looking for a position as a software developer.</p>
 <p>🌱 I’m currently working building a personal website.</p>
 <p>👯 I’m looking to collaborate on anything level-appropriate, especially if it's an opportunity with Vue or Typescript.</p>
 ⚡ Fun fact: 
