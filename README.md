@@ -1,6 +1,6 @@
 ### Hello! 👋
 <h3>I'm Dan.</h3>
-<p>I'm a recent graduate from the Lighthouse Labs Full-stack Web Development bootcamp, and former STEM undergraduate from the University of Toronto. I love to learn and tinker with new technologies.</p>
+<p>I'm a first year Computer Science Student at Toronto Metropolitan University, and former STEM undergraduate at the University of Toronto. I love to learn and tinker with new technologies. I love to learn and tinker with new technologies.</p>
 <p>After all, the most satisfying thing with using technology is the little details. Because it shows there's a human who cares on the other side. My favourite anecdote goes like this:</p>
 
 <br/>
