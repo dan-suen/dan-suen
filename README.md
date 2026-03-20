@@ -43,6 +43,9 @@ Those who know, know.
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Lisp](https://img.shields.io/badge/-Lisp-8A2BE2?style=for-the-badge&logo=lisp&logoColor=white)](https://en.wikipedia.org/wiki/Lisp_(programming_language))
+[![Smalltalk](https://img.shields.io/badge/-Smalltalk-2E86AB?style=for-the-badge&logo=smalltalk&logoColor=white)](https://en.wikipedia.org/wiki/Smalltalk)
+[![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
 
 <h3>Frameworks, Libraries & Environments</h3>
 
